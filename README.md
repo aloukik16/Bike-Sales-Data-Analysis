@@ -8,12 +8,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![Screenshot 2025-02-22 122100](https://github.com/user-attachments/assets/675d2885-511d-43ef-a2bb-950114f09a16)
-">
+![Screenshot 2025-02-22 122100](https://github.com/user-attachments/assets/675d2885-511d-43ef-a2bb-950114f09a16)
 
-<img src="https://drive.google.com/file/d/1vcLXo7-7LhNuI9UgAwtvRjYVFRPu6Y0t/view?usp=sharing" alt="project-screenshot" width="318" height="100/">
+![Screenshot 2025-02-22 122151](https://github.com/user-attachments/assets/c6fe520b-9c16-4efc-9278-2ea4e23930e3)
 
-<img src="https://drive.google.com/file/d/1COyqERg3Duu4Ie7wpaghpSKUz1C59IfF/view?usp=sharing" alt="project-screenshot" width="321" height="129/">
+
+![Screenshot 2025-02-22 122146](https://github.com/user-attachments/assets/09ee953d-8007-4ea9-8739-b3f068195da2)
+
 
   
   
