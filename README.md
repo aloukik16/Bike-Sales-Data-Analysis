@@ -8,7 +8,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1qu-Ne_0yargUQxpoEpRiBPugSDhYDOcv/view?usp=sharing" alt="project-screenshot" width="873" height="543/">
+<img src="![Screenshot 2025-02-22 122100](https://github.com/user-attachments/assets/675d2885-511d-43ef-a2bb-950114f09a16)
+">
 
 <img src="https://drive.google.com/file/d/1vcLXo7-7LhNuI9UgAwtvRjYVFRPu6Y0t/view?usp=sharing" alt="project-screenshot" width="318" height="100/">
 
